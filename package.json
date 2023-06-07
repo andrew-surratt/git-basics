@@ -1,0 +1,13 @@
+{
+  "name": "git-basics",
+  "version": "1.0.0",
+  "description": "Provides a demo app for testing git commands",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "create": "node ./scripts/1-create-tree.js",
+    "delete": "node ./scripts/2-delete-tree.js"
+  },
+  "author": "Andrew Surratt",
+  "license": "ISC"
+}
